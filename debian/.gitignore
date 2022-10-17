@@ -1,0 +1,7 @@
+*.substvars
+*debhelper*
+.debhelper
+files
+python-wheel-common
+python3-wheel
+tmp
