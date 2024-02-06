@@ -1,0 +1,4 @@
+python-wheel source: file-without-copyright-information
+python-wheel source: no-debian-changes
+python-wheel source: source-contains-prebuilt-windows-binary
+python-wheel source: source-package-encodes-python-version
