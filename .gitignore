@@ -7,7 +7,6 @@ build
 dist
 venv*/
 docs/_build
-src/wheel/_version.py
 __pycache__
 .coverage
 .pytest_cache
@@ -17,3 +16,5 @@ __pycache__
 .idea
 .cache
 .eggs
+.pre-commit-config.yaml
+.pybuild/
