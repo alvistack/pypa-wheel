@@ -1,0 +1,4 @@
+python-wheel-common: copyright-without-copyright-notice
+python-wheel-common: initial-upload-closes-no-bugs
+python-wheel-common: no-manual-page
+python-wheel-common: zero-byte-file-in-doc-directory

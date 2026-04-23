@@ -1,0 +1,5 @@
+python-wheel (100:0.47.0-1) UNRELEASED; urgency=medium
+
+  * https://github.com/pypa/wheel/releases/tag/0.47.0
+
+ -- Wong Hoi Sing Edison <hswong3i@pantarei-design.com>  Thu, 23 Apr 2026 11:35:49 +0800
